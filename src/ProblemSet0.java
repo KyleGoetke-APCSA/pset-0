@@ -99,20 +99,23 @@ public class ProblemSet0 {
 	   System.out.println("\\    / \\    / \\    /");
 	   System.out.println(" \\  /   \\  /   \\  /");
 	   System.out.println("  \\/     \\/     \\/");
-	   
-        /*
-         * Exercise 9.
-         *
-         * Print an encouraging message to the console.
-         */
-        System.out.println("You're almost done with your first problem set...\n")
-        /*
-         * Exercise 10.
-         *
-         * Print a plus sign to the console.
-         */
-        System.out.println(\t+---+\n\t|\t|);
-        System.out.println(+---+\t+---+\n|\t\t\t|\n+---+\t+---+);
-        System.out.println(\t|\t|\t\n\t+---+\n);
+
+	   /*
+		* Exercise 9.
+		*
+		* Print an encouraging message to the console.
+		*/
+
+	   System.out.println("\nYou're almost done with your first problem set...");
+
+	   /*
+		* Exercise 10.
+		*
+		* Print a plus sign to the console.
+		*/
+
+	   System.out.println("\n\t+---+\n\t|\t|");
+	   System.out.println("+---+\t+---+\n|\t\t\t|\n+---+\t+---+");
+	   System.out.println("\t|\t|\n\t+---+");
     }
 }
