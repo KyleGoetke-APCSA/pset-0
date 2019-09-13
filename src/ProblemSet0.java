@@ -61,39 +61,45 @@ public class ProblemSet0 {
 	   System.out.println(" |  '-'  |");
 	   System.out.println("  +-----+");
 
-        /*
-         * Exercise 5.
-         *
-         * Print a to-do list to the console.
-         */
-        System.outprintln("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n")
-        /*
-         * Exercise 6.
-         *
-         * Print a square of text to the console.
-         */
-        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n
+	   /*
+        * Exercise 5.
+        *
+        * Print a to-do list to the console.
+        */
 
-        /*
-         * Exercise 7.
-         *
-         * Print a countdown to the console.
-         */
+       System.out.println("\nHere's today's to-do list:");
+       System.out.println("\t- Go food shopping");
+       System.out.println("\t- Mow the lawn");
 
-        System.out.prin("Three.\tTwo.One.\tGo!\n");
+       /*
+        * Exercise 6.
+        *
+        * Print a square of text to the console.
+        */
 
-        /*
-         * Exercise 8.
-         *
-         * Print three diamonds to the console.
-         */
+       System.out.println("\nH E L L O\nE\t\tA\nL\t\tP\nL\t\tC\nO A P C S");
 
-        System.out.println("  /\     /\     /\");
-        System.out.println(" /  \   /  \   /  \");
-        System.out.println("/    \ /    \ /    \");
-        System.out.println("\    / \    / \    /");
-        System.out.println(" \  /   \  /   \  /");
-        System.out.println("  \/     \/     \/\n");
+	   /*
+		* Exercise 7.
+		*
+		* Print a countdown to the console.
+		*/
+
+	   System.out.println("\nThree.\tTwo.\tOne.\tGo!");
+
+	   /*
+		* Exercise 8.
+		*
+		* Print three diamonds to the console.
+		*/
+
+	   System.out.println("\n  /\\     /\\     /\\");
+	   System.out.println(" /  \\   /  \\   /  \\");
+	   System.out.println("/    \\ /    \\ /    \\");
+	   System.out.println("\\    / \\    / \\    /");
+	   System.out.println(" \\  /   \\  /   \\  /");
+	   System.out.println("  \\/     \\/     \\/");
+	   
         /*
          * Exercise 9.
          *
