@@ -39,38 +39,45 @@ public class ProblemSet0 {
  	   System.out.println("#      # #       #               #");
  	   System.out.println("#      # #       #               #");
  	   System.out.println("#      # #       ######## ########");
-	   
-        /*
-         * Exercise 3.
-         *
-         * Print a quoted message to the console.
-         */
-        System.out.println(""The answer's quite simple," the professor said. "Just think outside the box!"\n
 
-        /*
-         * Exercise 4.
-         *
-         * Print a face to the console.
-         */
+	   /*
+		* Exercise 3.
+		*
+		* Print a quoted message to the console.
+		*/
 
-        Systemut.println("   \\\\\");
-        System.out.println("  +"""""+");
-        System.outprintln("(|  0 0  |)");
-        System.out.println(" |   ^   |")
-        Systemout.println(" |  '-'  |);
-        Systemout.println("  +-----+\n");
-        /*
-         * Exercise 5.
-         *
-         * Print a to-do list to the console.
-         */
-        System.outprintln("Here's today's to-do list:\n- Go food shopping\\t- Mow the lawn\n")
-        /*
-         * Exercise 6.
-         *
-         * Print a square of text to the console.
-         */
-        System.out.println("H E L L O\nE\\A\nL\tP\nL\t\tC\nO A P C S\n
+	   System.out.println("\n\"The answer's quite simple\", the professor said. \"Just think outside the box!\"");
+
+	   /*
+		* Exercise 4.
+		*
+		* Print a face to the console.
+		*/
+
+	   System.out.println("\n   \\\\\\\\\\");
+	   System.out.println("  +\"\"\"\"\"+");
+	   System.out.println("(|  0 0  |)");
+	   System.out.println(" |   ^   |");
+	   System.out.println(" |  '-'  |");
+	   System.out.println("  +-----+");
+
+	   /*
+		* Exercise 5.
+		*
+		* Print a to-do list to the console.
+		*/
+
+	   System.out.println("\nHere's today's to-do list:");
+	   System.out.println("\t- Go food shopping");
+	   System.out.println("\t- Mow the lawn");
+
+	   /*
+		* Exercise 6.
+		*
+		* Print a square of text to the console.
+		*/
+
+	   System.out.println("\nH E L L O\nE\t\tA\nL\t\tP\nL\t\tC\nO A P C S");
 
         /*
          * Exercise 7.
